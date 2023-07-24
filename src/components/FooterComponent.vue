@@ -15,16 +15,13 @@ export default {
 </script>
 
 <template>
-
     <nav class="middle">
     <div :style="{ backgroundColor: backgroundColor }">
       <p>Background color: {{ backgroundColor }}</p>
     </div>
     <button @click="changeBackgroundColor">Change Color</button>
       </nav>
-
 </template>
-
 
 <style>
 .middle{

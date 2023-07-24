@@ -1,5 +1,4 @@
 <script>
-
 export default {
   data() {
     return {
@@ -14,7 +13,6 @@ export default {
 };
 </script>
 
-
 <template>
   <div class="math">
     <button @click="toggleElement">{{ showElement ? 'Hide' : 'Show' }}</button>
@@ -25,9 +23,7 @@ export default {
         <p>Click me!?</p>
       </div>
   </div>
-  
 </template>
-
 
 <style>
 .math{

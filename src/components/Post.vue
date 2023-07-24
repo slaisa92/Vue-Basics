@@ -41,12 +41,10 @@
     padding: 0;
     text-align: center;
   }
-  
   .post-lines {
     margin-bottom: 20px;
     border: 1px solid #000000;
     padding: 10px
-  
   }
   </style>
   

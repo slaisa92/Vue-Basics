@@ -1,7 +1,5 @@
 <script>
 </script>
-
-
 <template>
     <nav class="navbar">
         <h2>Vue Basics</h2>
@@ -13,7 +11,6 @@
     </nav>
 </template>
 
-
 <style>
 .navbar {
     background-color: rgb(45, 148, 207);
@@ -23,8 +20,6 @@
 .nav-list {
     list-style-type: none;
     justify-content: space-around;
-    display: flex;
-    
+    display: flex; 
 }
-
 </style>

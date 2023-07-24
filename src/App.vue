@@ -4,7 +4,6 @@ import Post from './components/Post.vue';
 import ShowHide from './components/ShowHide.vue';
 import FooterComponent from './components/FooterComponent.vue';
 </script>
-
 <template>
 <NavBar />
 <nav class="math">
@@ -14,8 +13,7 @@ import FooterComponent from './components/FooterComponent.vue';
 <ShowHide />
 <FooterComponent />
 <Post />
-  
 </template>
-<style>
 
+<style>
 </style>
